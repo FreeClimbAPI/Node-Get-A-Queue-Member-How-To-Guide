@@ -2,7 +2,7 @@
 
 This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/get-queue-member#section-nodejs). Specifically, the project will:
 
-- Get a memeber of a queue
+- Get a member of a queue
 
 ## Setting up your new app within your FreeClimb account
 
