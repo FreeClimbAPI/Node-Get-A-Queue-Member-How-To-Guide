@@ -1,6 +1,6 @@
-# Node - Get a Queue Tutorial
+# Node - Get a Queue How-To Guide
 
-This project serves as a guide to help you build an application with FreeClimb. View this tutorial on [FreeClimb.com](https://docs.freeclimb.com/docs/get-queue-member#section-nodejs). Specifically, the project will:
+This project serves as a guide to help you build an application with FreeClimb. View this how-to guide on [FreeClimb.com](https://docs.freeclimb.com/docs/get-queue-member#section-nodejs). Specifically, the project will:
 
 - Get a member of a queue
 
@@ -8,7 +8,7 @@ This project serves as a guide to help you build an application with FreeClimb. 
 
 To get started using a FreeClimb account, follow the instructions [here](https://docs.freeclimb.com/docs/getting-started-with-freeclimb).
 
-## Setting up the Tutorial
+## Setting up the how-to guide
 
 1. Install the node packages necessary using command:
 
@@ -25,7 +25,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
 
 3. Provide a value for the variables `queueuId` and `callId`. More about queues can be found [here](https://docs.freeclimb.com/reference/queues-1) and more about calls can be found [here](https://docs.freeclimb.com/reference/calls-1)
 
-## Runnning the Tutorial
+## Runnning the how-to guide
 
 1. Run the application using command:
 
